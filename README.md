@@ -6,7 +6,8 @@ Design, analysis, and LTspice verification of a 6.2V Zener diode shunt voltage r
 
 ## Circuit Prototype & LTspice Simulation
 <!-- Replace filenames below with the exact names you upload to GitHub -->
-![Circuit Photo](Circuit_Working.jpg)(Circuit_Prototype.jpg)
+![Circuit Photo](Circuit_Working.jpg)
+![Photo](Circuit_Prototype.jpg)
 
 
 ---
